@@ -2,7 +2,7 @@ import { Repo } from ".";
 
 export const linuxRepo: Repo = {
 	label: "Linux Kernel",
-	url: "https://github.com/torvalds/linux",
+	url: "https://github.com/alexladwong/linux",
 	files: [
 		{
 			path: "/linux/kernel/futex/core.c",
