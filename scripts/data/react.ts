@@ -2,7 +2,7 @@ import { Repo } from ".";
 
 export const reactRepo: Repo = {
 	label: "React",
-	url: "https://github.com/facebook/react",
+	url: "https://github.com/alexladwong",
 	files: [
 		{
 			path: "/packages/react-dom/src/server/ReactDOMFizzServerBrowser.js",
